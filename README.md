@@ -10,7 +10,7 @@
         <p>Welcome to my GitHub home page!</p>
         <p>
             🌍 I'm a Mauritian studying computer science specialized in the field of video games in France.</br>
-            🖥️ I love programming, especially in C++. I'm currently improve my knowledge about shaders. Recently, the project that I'm the most proud of is my <a href="https://github.com/GuilBlack/EngineProject">EngineProject</a> that I worked on with some friends for 3 weeks and we are proud of the result!  </br>
+            🖥️ I love programming, especially in C++. I'm currently improving my knowledge about shaders in Unity. Recently, the project that I'm the most proud of is my <a href="https://github.com/GuilBlack/EngineProject">EngineProject</a> that I worked on with some friends for 3 weeks and we are proud of the result!  </br>
             ✨ I love reading, playing volleyball and hitting the gym!
         </p>
     </section>
