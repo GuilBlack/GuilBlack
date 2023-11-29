@@ -2,9 +2,7 @@
     <!--title-->
     <section>
         <div>
-            <h1 style="color: #ff6961;
-            text-align: center;
-            text-decoration: underline;"> Guillaume (GuilBlack) Blackburn </h1>
+            <h1 align="center"> Guillaume (GuilBlack) Blackburn </h1>
         </div>
     </section>
     <section>
