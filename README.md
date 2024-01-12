@@ -18,7 +18,6 @@
         <h2> 📈 <span style="text-decoration: underline;">Stats</span> </h2>
         <div>
             <img src="https://myreadme.vercel.app/api/embed/guilblack?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilblack&theme=tokyonight" alt="mystreak"/>
         </div>
     </section>
     <!--social accounts-->
